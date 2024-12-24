@@ -4,11 +4,11 @@
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    HeapSort.main(args);
   }
 
   // @Test
   // void addition() {
-  //     assertEquals(2, 1 + 1);
+  // assertEquals(2, 1 + 1);
   // }
 }
